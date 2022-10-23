@@ -70,7 +70,7 @@
 
 // map
 
-let mapAPIKey = "AtdR_ZOiE1ssipGM0pr_9N2IXztfiTZDQrUt4swXVHNbie7LhUUsi4-gl0YsEixP";
+let mapAPIKey = "Ai694UEXGGYmB8KhQJJBHYhKXWKlpoK3CenFh3kfU7CWMxH62RUTADLqLbNNCRzR";
 
 let map;
 
